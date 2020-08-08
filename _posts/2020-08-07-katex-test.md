@@ -12,9 +12,9 @@ tags: test katex
 # Katex
 
 Here's a Katex equation:
-{% katex display %}
+$$
 c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
+$$
 
 # Code
 

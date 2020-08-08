@@ -13,7 +13,6 @@ excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
   - jekyll-archives
-  - jekyll-katex
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -21,3 +20,4 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+  math_engine: katex
