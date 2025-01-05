@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ide on Tadej&#39;s bits and bytes</title>
+    <link>http://localhost:1313/tags/ide/</link>
+    <description>Recent content in Ide on Tadej&#39;s bits and bytes</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2025 21:43:56 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Go setup</title>
+      <link>http://localhost:1313/bytes/my-go-setup/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/bytes/my-go-setup/</guid>
+      <description>&lt;p&gt;hello&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

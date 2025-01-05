@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Algorithms on Tadej&#39;s bits and bytes</title>
+    <link>http://localhost:1313/tags/algorithms/</link>
+    <description>Recent content in Algorithms on Tadej&#39;s bits and bytes</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2025 21:43:56 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AOC 2024 Day 9: A clever use of heaps</title>
+      <link>http://localhost:1313/bits/aoc-2024-day-9/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/bits/aoc-2024-day-9/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m &lt;a href=&#34;https://github.com/tadejsv/aoc-2024&#34;&gt;participating&lt;/a&gt; in this year&amp;rsquo;s &lt;a href=&#34;https://adventofcode.com/2024&#34;&gt;Advent of Code&lt;/a&gt; writing solutions in all 3 languages I am proficient in: Python, Go and C++.&lt;/p&gt;
+&lt;p&gt;I came across an interesting solution to the &lt;a href=&#34;https://adventofcode.com/2024/day/9&#34;&gt;Day 9&lt;/a&gt; problem. This is still one of the earlier days, so you&amp;rsquo;re not supposed to pull out the big guns (fancy algos) just yet. Nevertheless, this solution (which I&amp;rsquo;ll get to in just a minute) made an interesting use of min heaps to acheive a substantial speedup on part 2 of the problem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

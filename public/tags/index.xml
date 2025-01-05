@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Tadej&#39;s bits and bytes</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Tadej&#39;s bits and bytes</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2025 21:43:56 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code</title>
+      <link>http://localhost:1313/tags/advent-of-code/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/advent-of-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advent of Code 2024</title>
+      <link>http://localhost:1313/tags/advent-of-code-2024/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/advent-of-code-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithms</title>
+      <link>http://localhost:1313/tags/algorithms/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aoc</title>
+      <link>http://localhost:1313/tags/aoc/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/aoc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:1313/tags/code/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/tags/rust/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/tags/testing/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/testing/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

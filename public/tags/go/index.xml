@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Go on Tadej&#39;s bits and bytes</title>
+    <link>http://localhost:1313/tags/go/</link>
+    <description>Recent content in Go on Tadej&#39;s bits and bytes</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2025 21:43:56 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Go setup</title>
+      <link>http://localhost:1313/bytes/my-go-setup/</link>
+      <pubDate>Fri, 03 Jan 2025 21:43:56 +0300</pubDate>
+      <guid>http://localhost:1313/bytes/my-go-setup/</guid>
+      <description>&lt;p&gt;In this post I&amp;rsquo;ll describe what I use for writing, linting, formatting, shipping, &amp;hellip; &lt;strong&gt;Go code&lt;/strong&gt;. This is a first in a series of posts where I&amp;rsquo;ll describe my setup in all 3 languages that I code in: Go (this post), Python and C++.&lt;/p&gt;
+&lt;p&gt;This one will be the most boring one in the series - Go is the most &amp;ldquo;batteries included&amp;rdquo; language out of the bunch, so there&amp;rsquo;s not much to write other than &amp;ldquo;I use the default thing that Go/standard library provides&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
